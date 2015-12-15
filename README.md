@@ -1,2 +1,2 @@
-# mweinberger-tgm.github.io
-Michael Weinberger | 5BHIT
+# Michael Weinberger | 5BHIT auf GitHub
+Lorem ipsum
