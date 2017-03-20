@@ -1,0 +1,8 @@
+title: Michael Weinberger
+description: Absolvent des TGM Wien, Informationstechnologie-Systemtechnik | Student der TU Wien, Software & Information Engineering
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
