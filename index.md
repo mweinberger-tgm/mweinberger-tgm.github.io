@@ -1,8 +1,12 @@
 ###Kontakt
 @mweinberger-tgm
+e1634261@student.tuwien.ac.at
+weinb.m@gmail.com
 
 ***
 Ausgewählte Projekte:
+
+<https://github.com/mweinberger-tgm/uni>
 
 <https://github.com/mweinberger-tgm/Dokumentenvorlage.git>
 
