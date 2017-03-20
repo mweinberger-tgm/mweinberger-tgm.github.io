@@ -2,7 +2,10 @@
 Kontakt:
 
 @mweinberger-tgm
-weinb.m@gmail.com
+
+<weinb.m@gmail.com>
+
+<e1634261@student.tuwien.ac.at>
 
 ***
 Ausgewählte Projekte:
