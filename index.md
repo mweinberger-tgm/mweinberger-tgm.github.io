@@ -2,6 +2,7 @@
 Kontakt:
 
 @mweinberger-tgm
+weinb.m@gmail.com
 
 ***
 Ausgewählte Projekte:
